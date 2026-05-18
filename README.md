@@ -4,8 +4,8 @@ This repository contains a **mock database** demonstrating basic Oracle PL/SQL s
 
 - Creating tables with relationships
 - Inserting sample data
-- Writing simple **stored procedures**
-- Using **triggers** to enforce business rules
+- Writing simple stored procedures
+- Using triggers to enforce business rules
 
 This is **not a production database**, just a learning/demo project.
 It is **not a full production project**, but a showcase of what can be done in PL/SQL.
